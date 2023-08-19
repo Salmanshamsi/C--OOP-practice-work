@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\OOPs LABS\ConsoleApplications\ConsoleApplications\bin\Release\ConsoleApplications.exe.config
+C:\Users\user\Desktop\OOPs LABS\ConsoleApplications\ConsoleApplications\bin\Release\ConsoleApplications.exe
+C:\Users\user\Desktop\OOPs LABS\ConsoleApplications\ConsoleApplications\bin\Release\ConsoleApplications.pdb
+C:\Users\user\Desktop\OOPs LABS\ConsoleApplications\ConsoleApplications\obj\Release\ConsoleApplications.exe
+C:\Users\user\Desktop\OOPs LABS\ConsoleApplications\ConsoleApplications\obj\Release\ConsoleApplications.pdb
+C:\Users\user\Desktop\OOPs LABS\ConsoleApplications\ConsoleApplications\obj\Release\ConsoleApplications.csprojResolveAssemblyReference.cache

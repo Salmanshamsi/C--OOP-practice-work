@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\OOPs LABS\WindowsFormsApplications\WindowsFormsApplications\bin\Debug\WindowsFormsApplications.exe.config
+C:\Users\user\Desktop\OOPs LABS\WindowsFormsApplications\WindowsFormsApplications\bin\Debug\WindowsFormsApplications.exe
+C:\Users\user\Desktop\OOPs LABS\WindowsFormsApplications\WindowsFormsApplications\bin\Debug\WindowsFormsApplications.pdb
+C:\Users\user\Desktop\OOPs LABS\WindowsFormsApplications\WindowsFormsApplications\obj\Debug\WindowsFormsApplications.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\OOPs LABS\WindowsFormsApplications\WindowsFormsApplications\obj\Debug\WindowsFormsApplications.Form1.resources
+C:\Users\user\Desktop\OOPs LABS\WindowsFormsApplications\WindowsFormsApplications\obj\Debug\WindowsFormsApplications.Properties.Resources.resources
+C:\Users\user\Desktop\OOPs LABS\WindowsFormsApplications\WindowsFormsApplications\obj\Debug\WindowsFormsApplications.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\OOPs LABS\WindowsFormsApplications\WindowsFormsApplications\obj\Debug\WindowsFormsApplications.exe
+C:\Users\user\Desktop\OOPs LABS\WindowsFormsApplications\WindowsFormsApplications\obj\Debug\WindowsFormsApplications.pdb
